@@ -4,7 +4,7 @@
 
 const CONFIG = {
   // L'identifiant client de TON application créée sur https://developer.spotify.com/dashboard
-  CLIENT_ID: "COLLE_TON_CLIENT_ID_ICI",
+  CLIENT_ID: "04a00277a5044ce090e5963219a2473a",
 
   // L'URL exacte où sera hébergée la page (doit être EXACTEMENT la même
   // dans le dashboard Spotify > Redirect URIs). Pour GitHub Pages, ça
